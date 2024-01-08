@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dipanshu867
+- 👋 Hi, I’m Dipanshu Upadhyay
 - 👀 I’m interested in Web devlopment
 - 🌱 I’m currently learning Web technologies
 - 📫 you can  reach me at dipanshuupadhyay867@gmail.com 
